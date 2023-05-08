@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F47C3BD6-0D68-4FA4-A38D-23ABF9BFD414}" SchemaVersion="110">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{F47C3BD6-0D68-4FA4-A38D-23ABF9BFD414}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_Poltergeist_gameplay_140" ID="{4B760D46-3575-4597-B296-C937D37044D6}">
+					<ChildrenList>
+						<Action Name="" ID="{03B9632C-5129-4CAD-B715-2D0D6644E197}" ShortID="979851459">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Poltergeist_gameplay_140" ID="{9186188D-D2AC-4A2D-9106-7F22DCEDEBB8}" WorkUnitID="{17354533-35D0-47C6-9D59-CA0DB3779786}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_Poltergeist_gameplay_140" ID="{E64BD90B-AE45-4F2D-8780-7CC24649749B}">
+					<ChildrenList>
+						<Action Name="" ID="{D0AD7A3B-DB33-45EE-8075-4C745334D863}" ShortID="389711590">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Poltergeist_gameplay_140" ID="{9186188D-D2AC-4A2D-9106-7F22DCEDEBB8}" WorkUnitID="{17354533-35D0-47C6-9D59-CA0DB3779786}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Poltergeist_menu_140" ID="{42B98D60-3D59-433E-B09E-5C437D5DDE2A}">
+					<ChildrenList>
+						<Action Name="" ID="{B57CD457-16E0-4D0D-AAAC-A98EDD1D0074}" ShortID="760894979">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Poltergeist_menu_140" ID="{2B42B4F5-13D6-4CAE-9203-FDFD3D30BB6D}" WorkUnitID="{17354533-35D0-47C6-9D59-CA0DB3779786}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_Poltergeist_menu_140" ID="{C88A9E2C-DDCF-49CD-A1E0-D2B3631CFACC}">
+					<ChildrenList>
+						<Action Name="" ID="{EABED754-E54C-4B81-ABB4-FCB2E9151A32}" ShortID="97629472">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Poltergeist_menu_140" ID="{2B42B4F5-13D6-4CAE-9203-FDFD3D30BB6D}" WorkUnitID="{17354533-35D0-47C6-9D59-CA0DB3779786}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_amb" ID="{2CDA26ED-61E8-416C-88A1-58A880E29324}">
+					<ChildrenList>
+						<Action Name="" ID="{04B7E2C9-0BDB-41E9-AAE5-782F83C41A02}" ShortID="499519578">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="amb" ID="{AFD7EF2B-89F7-49B7-9E12-D73150A7F036}" WorkUnitID="{17354533-35D0-47C6-9D59-CA0DB3779786}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_light_table" ID="{72D67A43-C97B-4821-942E-9A14FB1C9F21}">
+					<ChildrenList>
+						<Action Name="" ID="{BDAA879F-00A1-44DF-96C8-3188C2DFFE1C}" ShortID="735522917">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="light_table" ID="{4EEB583C-3F3C-4D0F-AE7D-96DBFFD38103}" WorkUnitID="{17354533-35D0-47C6-9D59-CA0DB3779786}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_book" ID="{C2FA26CA-C752-48D0-9D62-FEFC76D70275}">
+					<ChildrenList>
+						<Action Name="" ID="{AAC09401-7973-4C6E-9EEA-C41E9261308A}" ShortID="173610693">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="book" ID="{50ADF784-C8AC-4550-B6E5-68A634B213F9}" WorkUnitID="{17354533-35D0-47C6-9D59-CA0DB3779786}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_door" ID="{8CE45BD6-E3DC-48F5-AE64-7356300DA7D5}">
+					<ChildrenList>
+						<Action Name="" ID="{0DFE6BC8-847C-44DE-9566-1D5396206447}" ShortID="1043651409">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="door" ID="{27FCFF5D-825D-4065-BACE-F26CA23C9F5F}" WorkUnitID="{17354533-35D0-47C6-9D59-CA0DB3779786}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_drawer" ID="{B6D0B3D5-BFB7-459D-B0FB-A197975E00D1}">
+					<ChildrenList>
+						<Action Name="" ID="{624EF95B-80C2-402F-8139-58D30D0FC15C}" ShortID="70397441">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="drawer" ID="{530EB068-7CF0-4A63-83EA-F8F1EB6EB8F2}" WorkUnitID="{17354533-35D0-47C6-9D59-CA0DB3779786}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_light_click" ID="{AC33C020-750A-4D10-86E5-8D3F3709889D}">
+					<ChildrenList>
+						<Action Name="" ID="{525034F5-18DD-4FA4-B342-FD446C6CFC50}" ShortID="28458402">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="light_click" ID="{203DDC26-F9AC-44A3-B788-15188B08484C}" WorkUnitID="{17354533-35D0-47C6-9D59-CA0DB3779786}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_radio" ID="{23C19AFB-063F-4464-A706-653BB47A5CC1}">
+					<ChildrenList>
+						<Action Name="" ID="{94823AE9-BAD3-42C1-B19B-EF0E5EDDBD99}" ShortID="372102526">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="radio" ID="{F1589B32-116C-4D20-BD9C-0F89C3D6584D}" WorkUnitID="{17354533-35D0-47C6-9D59-CA0DB3779786}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_orb" ID="{F73CF94B-2CC4-4EE4-93B7-A4769C69CCC5}">
+					<ChildrenList>
+						<Action Name="" ID="{7BC4BC27-6DCC-42B6-B672-F002F189D355}" ShortID="740866915">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="orb" ID="{610186DB-9B52-42E1-B5F9-935CA23ECC2A}" WorkUnitID="{17354533-35D0-47C6-9D59-CA0DB3779786}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_window_f" ID="{E3853F37-6DE3-4581-B9D4-7FC3801A85E1}">
+					<ChildrenList>
+						<Action Name="" ID="{1DE0C49D-6912-44DD-9C37-0202B6812FE0}" ShortID="628843587">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="window_f" ID="{2A99D710-0114-43C0-9B84-906EA0AEEBF6}" WorkUnitID="{17354533-35D0-47C6-9D59-CA0DB3779786}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_under_bed" ID="{7EC27B21-24B7-4617-AFF0-3DD201033538}">
+					<ChildrenList>
+						<Action Name="" ID="{10752F10-CCD5-41AD-81CE-5DC69370E440}" ShortID="829829155">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="under_bed" ID="{EB938F9E-387C-4B1D-84AF-84E8F87A6F18}" WorkUnitID="{17354533-35D0-47C6-9D59-CA0DB3779786}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_gameover" ID="{1D4C5F34-8C34-456E-AA2D-75AE769614C1}">
+					<ChildrenList>
+						<Action Name="" ID="{DB761520-C9A7-4EFE-AD26-74CB958A3D1C}" ShortID="3771247">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Poltergeist_gameover_140" ID="{848825C5-62E1-4F0F-BC8F-9332ABEABF41}" WorkUnitID="{17354533-35D0-47C6-9D59-CA0DB3779786}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_win" ID="{8ED6BB86-36F7-4959-ADD4-C6D9B72F2E8A}">
+					<ChildrenList>
+						<Action Name="" ID="{ABCD6F31-2A44-4DCB-9CA8-0F939DF7BC3F}" ShortID="717505986">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Poltergeist_win_140" ID="{52C74108-1D7E-4BF2-95EA-34BEE774157F}" WorkUnitID="{17354533-35D0-47C6-9D59-CA0DB3779786}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

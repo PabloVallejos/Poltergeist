@@ -1,0 +1,58 @@
+Event	ID	Name			Wwise Object Path	Notes
+	176822700	Stop_Poltergeist_menu_140			\Default Work Unit\Stop_Poltergeist_menu_140	
+	598019610	Play_Poltergeist_menu_140			\Default Work Unit\Play_Poltergeist_menu_140	
+	956167245	Play_drawer			\Default Work Unit\Play_drawer	
+	1357519513	Play_book			\Default Work Unit\Play_book	
+	1690538505	Play_window_f			\Default Work Unit\Play_window_f	
+	2547633870	Play_door			\Default Work Unit\Play_door	
+	2654192043	Play_Poltergeist_gameplay_140			\Default Work Unit\Play_Poltergeist_gameplay_140	
+	2683200827	Play_light_click			\Default Work Unit\Play_light_click	
+	2808828905	Play_orb			\Default Work Unit\Play_orb	
+	2953849999	Play_radio			\Default Work Unit\Play_radio	
+	2955987680	Play_win			\Default Work Unit\Play_win	
+	2959533290	Play_amb			\Default Work Unit\Play_amb	
+	3174629258	Play_gameover			\Default Work Unit\Play_gameover	
+	3188983819	Play_light_table			\Default Work Unit\Play_light_table	
+	3449671789	Stop_Poltergeist_gameplay_140			\Default Work Unit\Stop_Poltergeist_gameplay_140	
+	3672104012	Play_under_bed			\Default Work Unit\Play_under_bed	
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	185644378	Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\light_table\ligh_crash\silence_5\Silence	
+	544076811	Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\light_table\ligh_crash\silence_3\Silence	
+	826627410	Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\light_table\ligh_crash\silence_1\Silence	
+	868880037	Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\light_table\ligh_crash\silence_4\Silence	
+	1065272615	Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\light_table\ligh_crash\silence_2\Silence	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	105161316	Poltergeist_gameplay_140	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\Poltergeist_gameplay_140_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Poltergeist_gameplay_140		19748668
+	146903229	sfx_light_1	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\sfx_light_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\light_table\light\sfx_light_1		40284
+	147752441	vo_1	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\vo_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\under_bed\vo_ub\vo_1		648020
+	153205450	door_open_1	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\door_open_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\door\door_open_1		227890
+	170045026	os_obj_crash_1	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\os_obj_crash_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\book\os_obj_crash_1		129928
+	222131146	vo_7	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\vo_7_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\window_f\vo\vo_7		585976
+	277179827	sfx_glass_crash	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\sfx_glass_crash_1AF2246A.wem		\Actor-Mixer Hierarchy\Default Work Unit\light_table\ligh_crash\sfx_glass_crash		80592
+	322798135	sfx_orb_1	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\sfx_orb_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\orb\sfx_orb_1		396996
+	352770780	amb_wind2	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\env_wind_6F6AA8CC.wem		\Actor-Mixer Hierarchy\Default Work Unit\amb\amb_wind2		4233744
+	378294297	os_open_drawer_2	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\os_open_drawer_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\drawer\os_open_drawer_2		107700
+	504934440	door_open_3	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\door_open_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\door\door_open_3		373182
+	566263901	door_open_2	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\door_open_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\door\door_open_2		215030
+	575551422	vo_6	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\vo_6_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\window_f\vo\vo_6		786436
+	676702837	sfx_radio_1	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\sfx_radio_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\radio\sfx_radio_1		1725528
+	716269960	sfx_orb_2	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\sfx_orb_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\orb\sfx_orb_2		352896
+	760606562	Poltergeist_gameover_140	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\Poltergeist_gameover_140_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Poltergeist_gameover_140		1645812
+	775798993	Poltergeist_win_140	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\Poltergeist_win_140_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Poltergeist_win_140		1645812
+	788957890	sfx_radio_3	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\sfx_radio_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\radio\sfx_radio_3		2098916
+	791763607	hit_holy_water	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\hit_holy_water_99F3489C.wem		\Actor-Mixer Hierarchy\Default Work Unit\under_bed\hit_holy_water		720672
+	794870532	sfx_light_click	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\sfx_light_click_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\light_click\sfx_light_click		40284
+	809607116	hit_bible	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\hit_bible_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\window_f\hit_bible		839916
+	823955569	amb_wind	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\amb_wind_615FDB90.wem		\Actor-Mixer Hierarchy\Default Work Unit\amb\amb_wind		1728144
+	854763766	vo_2	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\vo_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\under_bed\vo_ub\vo_2		706980
+	860664675	hit_estante	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\hit_estante_B41D4942.wem		\Actor-Mixer Hierarchy\Default Work Unit\book\hit_estante		222976
+	881638045	sfx_radio_2	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\sfx_radio_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\radio\sfx_radio_2		1845376
+	936781364	sfx_light_2	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\sfx_light_2_D32E1054.wem		\Actor-Mixer Hierarchy\Default Work Unit\light_table\light\sfx_light_2		47048
+	950822288	os_obj_book_crash_1	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\os_obj_book_crash_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\book\os_obj_book_crash_1		67148
+	955166845	sfx_orb_3	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\sfx_orb_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\orb\sfx_orb_3		352896
+	969615849	os_door_locked_1	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\os_door_locked_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\window_f\os_door_locked_1		154136
+	1008711001	Poltergeist_menu_140	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\Poltergeist_menu_140_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Poltergeist_menu_140		10203524
+	1038867256	os_open_drawer_1	G:\Unity Projects\Poltergeist\Poltergeist\Poltergeist\Poltergeist_WwiseProject\.cache\Mac\SFX\os_open_drawer_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\drawer\os_open_drawer_1		163016
+

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="145">
+	<RootPaths>
+		<ProjectRoot>../..</ProjectRoot>
+		<SourceFilesRoot>../../.cache/Mac</SourceFilesRoot>
+		<SoundBanksRoot>.</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>.</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{D3EC513C-F1F9-6683-7ABC-035189511D74}">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<Plugins>
+				<AudioDevices>
+					<Plugin Id="2317455096" Name="No_Output" LibName="No Output" LibId="11862023"/>
+					<Plugin Id="3859886410" Name="System" LibName="System" LibId="11403271"/>
+				</AudioDevices>
+			</Plugins>
+			<Busses>
+				<Bus Id="3803692087" Name="Master Audio Bus"/>
+			</Busses>
+		</SoundBank>
+		<SoundBank Id="3161908922" Type="User" Language="SFX" Hash="{2447E0ED-C34D-1120-ADA0-4CA6DA34075E}">
+			<ShortName>main</ShortName>
+			<Path>main.bnk</Path>
+			<Media>
+				<File Id="105161316" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Poltergeist_gameplay_140.wav</ShortName>
+					<CachePath>SFX/Poltergeist_gameplay_140_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="146903229" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_light_1.wav</ShortName>
+					<CachePath>SFX/sfx_light_1_10C4C929.wem</CachePath>
+				</File>
+				<File Id="147752441" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>vo_1.wav</ShortName>
+					<CachePath>SFX/vo_1_10C4C929.wem</CachePath>
+				</File>
+				<File Id="153205450" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>door_open_1.wav</ShortName>
+					<CachePath>SFX/door_open_1_10C4C929.wem</CachePath>
+				</File>
+				<File Id="170045026" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>os_obj_crash_1.wav</ShortName>
+					<CachePath>SFX/os_obj_crash_1_10C4C929.wem</CachePath>
+				</File>
+				<File Id="222131146" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>vo_7.wav</ShortName>
+					<CachePath>SFX/vo_7_10C4C929.wem</CachePath>
+				</File>
+				<File Id="277179827" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_glass_crash.wav</ShortName>
+					<CachePath>SFX/sfx_glass_crash_1AF2246A.wem</CachePath>
+				</File>
+				<File Id="322798135" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_orb_1.wav</ShortName>
+					<CachePath>SFX/sfx_orb_1_10C4C929.wem</CachePath>
+				</File>
+				<File Id="352770780" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>env_wind.wav</ShortName>
+					<CachePath>SFX/env_wind_6F6AA8CC.wem</CachePath>
+				</File>
+				<File Id="378294297" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>os_open_drawer_2.wav</ShortName>
+					<CachePath>SFX/os_open_drawer_2_10C4C929.wem</CachePath>
+				</File>
+				<File Id="504934440" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>door_open_3.wav</ShortName>
+					<CachePath>SFX/door_open_3_10C4C929.wem</CachePath>
+				</File>
+				<File Id="566263901" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>door_open_2.wav</ShortName>
+					<CachePath>SFX/door_open_2_10C4C929.wem</CachePath>
+				</File>
+				<File Id="575551422" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>vo_6.wav</ShortName>
+					<CachePath>SFX/vo_6_10C4C929.wem</CachePath>
+				</File>
+				<File Id="676702837" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_radio_1.wav</ShortName>
+					<CachePath>SFX/sfx_radio_1_10C4C929.wem</CachePath>
+				</File>
+				<File Id="716269960" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_orb_2.wav</ShortName>
+					<CachePath>SFX/sfx_orb_2_10C4C929.wem</CachePath>
+				</File>
+				<File Id="760606562" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Poltergeist_gameover_140.wav</ShortName>
+					<CachePath>SFX/Poltergeist_gameover_140_10C4C929.wem</CachePath>
+				</File>
+				<File Id="775798993" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Poltergeist_win_140.wav</ShortName>
+					<CachePath>SFX/Poltergeist_win_140_10C4C929.wem</CachePath>
+				</File>
+				<File Id="788957890" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_radio_3.wav</ShortName>
+					<CachePath>SFX/sfx_radio_3_10C4C929.wem</CachePath>
+				</File>
+				<File Id="791763607" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>hit_holy_water.wav</ShortName>
+					<CachePath>SFX/hit_holy_water_99F3489C.wem</CachePath>
+				</File>
+				<File Id="794870532" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_light_click.wav</ShortName>
+					<CachePath>SFX/sfx_light_click_10C4C929.wem</CachePath>
+				</File>
+				<File Id="809607116" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>hit_bible.wav</ShortName>
+					<CachePath>SFX/hit_bible_10C4C929.wem</CachePath>
+				</File>
+				<File Id="823955569" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>amb_wind.wav</ShortName>
+					<CachePath>SFX/amb_wind_615FDB90.wem</CachePath>
+				</File>
+				<File Id="854763766" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>vo_2.wav</ShortName>
+					<CachePath>SFX/vo_2_10C4C929.wem</CachePath>
+				</File>
+				<File Id="860664675" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>hit_estante.wav</ShortName>
+					<CachePath>SFX/hit_estante_B41D4942.wem</CachePath>
+				</File>
+				<File Id="881638045" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_radio_2.wav</ShortName>
+					<CachePath>SFX/sfx_radio_2_10C4C929.wem</CachePath>
+				</File>
+				<File Id="936781364" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_light_2.wav</ShortName>
+					<CachePath>SFX/sfx_light_2_D32E1054.wem</CachePath>
+				</File>
+				<File Id="950822288" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>os_obj_book_crash_1.wav</ShortName>
+					<CachePath>SFX/os_obj_book_crash_1_10C4C929.wem</CachePath>
+				</File>
+				<File Id="955166845" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sfx_orb_3.wav</ShortName>
+					<CachePath>SFX/sfx_orb_3_10C4C929.wem</CachePath>
+				</File>
+				<File Id="969615849" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>os_door_locked_1.wav</ShortName>
+					<CachePath>SFX/os_door_locked_1_10C4C929.wem</CachePath>
+				</File>
+				<File Id="1008711001" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Poltergeist_menu_140.wav</ShortName>
+					<CachePath>SFX/Poltergeist_menu_140_D79FB2B7.wem</CachePath>
+				</File>
+				<File Id="1038867256" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>os_open_drawer_1.wav</ShortName>
+					<CachePath>SFX/os_open_drawer_1_10C4C929.wem</CachePath>
+				</File>
+			</Media>
+			<Plugins>
+				<Custom>
+					<Plugin Id="185644378" Name="Silence" LibName="Wwise Silence" LibId="6619138"/>
+					<Plugin Id="544076811" Name="Silence" LibName="Wwise Silence" LibId="6619138"/>
+					<Plugin Id="826627410" Name="Silence" LibName="Wwise Silence" LibId="6619138"/>
+					<Plugin Id="868880037" Name="Silence" LibName="Wwise Silence" LibId="6619138"/>
+					<Plugin Id="1065272615" Name="Silence" LibName="Wwise Silence" LibId="6619138"/>
+				</Custom>
+			</Plugins>
+			<Events>
+				<Event Id="2959533290" Name="Play_amb" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="352770780"/>
+						<MediaRef Id="823955569"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1357519513" Name="Play_book" DurationType="OneShot" DurationMin="0.34836426" DurationMax="1.5270529">
+					<MediaRefs>
+						<MediaRef Id="170045026"/>
+						<MediaRef Id="860664675"/>
+						<MediaRef Id="950822288"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2547633870" Name="Play_door" DurationType="OneShot" DurationMin="2.4368935" DurationMax="4.23">
+					<MediaRefs>
+						<MediaRef Id="153205450"/>
+						<MediaRef Id="504934440"/>
+						<MediaRef Id="566263901"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="956167245" Name="Play_drawer" DurationType="OneShot" DurationMin="0.5195068" DurationMax="0.9370166">
+					<MediaRefs>
+						<MediaRef Id="378294297"/>
+						<MediaRef Id="1038867256"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3174629258" Name="Play_gameover" DurationType="OneShot" DurationMin="8.571438" DurationMax="8.571438">
+					<MediaRefs>
+						<MediaRef Id="760606562"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2683200827" Name="Play_light_click" DurationType="OneShot" DurationMin="0.12786141" DurationMax="0.13198867">
+					<MediaRefs>
+						<MediaRef Id="794870532"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3188983819" Name="Play_light_table" DurationType="OneShot" DurationMin="0.84897673" DurationMax="1">
+					<MediaRefs>
+						<MediaRef Id="146903229"/>
+						<MediaRef Id="277179827"/>
+						<MediaRef Id="936781364"/>
+					</MediaRefs>
+					<PluginRefs>
+						<Custom>
+							<PluginRef Id="185644378"/>
+							<PluginRef Id="544076811"/>
+							<PluginRef Id="826627410"/>
+							<PluginRef Id="868880037"/>
+							<PluginRef Id="1065272615"/>
+						</Custom>
+					</PluginRefs>
+				</Event>
+				<Event Id="2808828905" Name="Play_orb" DurationType="OneShot" DurationMin="4" DurationMax="4.5">
+					<MediaRefs>
+						<MediaRef Id="322798135"/>
+						<MediaRef Id="716269960"/>
+						<MediaRef Id="955166845"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2654192043" Name="Play_Poltergeist_gameplay_140" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="105161316"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="598019610" Name="Play_Poltergeist_menu_140" DurationType="Infinite">
+					<MediaRefs>
+						<MediaRef Id="1008711001"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2953849999" Name="Play_radio" DurationType="OneShot" DurationMin="9.781361" DurationMax="11.898072">
+					<MediaRefs>
+						<MediaRef Id="676702837"/>
+						<MediaRef Id="788957890"/>
+						<MediaRef Id="881638045"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3672104012" Name="Play_under_bed" DurationType="OneShot" DurationMin="4.0849056" DurationMax="4.0849056">
+					<MediaRefs>
+						<MediaRef Id="147752441"/>
+						<MediaRef Id="791763607"/>
+						<MediaRef Id="854763766"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2955987680" Name="Play_win" DurationType="OneShot" DurationMin="8.571438" DurationMax="8.571438">
+					<MediaRefs>
+						<MediaRef Id="775798993"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1690538505" Name="Play_window_f" DurationType="OneShot" DurationMin="4.3607097" DurationMax="4.90322">
+					<MediaRefs>
+						<MediaRef Id="222131146"/>
+						<MediaRef Id="575551422"/>
+						<MediaRef Id="809607116"/>
+						<MediaRef Id="969615849"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3449671789" Name="Stop_Poltergeist_gameplay_140" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+				<Event Id="176822700" Name="Stop_Poltergeist_menu_140" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{0EB21E87-3CEA-77F1-3B71-66903FA8D96F}</FileHash>
+</SoundBanksInfo>

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7acb64015467ec4188db78968ce4216, type: 3}
+  m_Name: 2CDA26ED-61E8-416C-88A1-58A880E29324
+  m_EditorClassIdentifier: 
+  objectName: Play_amb
+  id: 2959533290
+  guid: 2CDA26ED-61E8-416C-88A1-58A880E29324

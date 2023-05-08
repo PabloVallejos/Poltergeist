@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7acb64015467ec4188db78968ce4216, type: 3}
+  m_Name: F73CF94B-2CC4-4EE4-93B7-A4769C69CCC5
+  m_EditorClassIdentifier: 
+  objectName: Play_orb
+  id: 2808828905
+  guid: F73CF94B-2CC4-4EE4-93B7-A4769C69CCC5
